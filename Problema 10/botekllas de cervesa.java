@@ -1,6 +1,6 @@
 public class App {
     public static void main(String[] args) throws Exception {
-mostrarLetra(99);
+mostrarLetra(10);
     }
 
     public static void mostrarLetra(int numBotellas) {
